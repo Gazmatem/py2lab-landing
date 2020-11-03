@@ -5576,7 +5576,7 @@ textarea {
   }
 }
 
-//*--------------------------------------------------------------
+/*--------------------------------------------------------------
   ## Contact Us
   --------------------------------------------------------------*/
 .contactus {
@@ -6087,13 +6087,6 @@ Estos son los estilos de los productos
   color: #474747;
 }
 
-span {
-  display: inline-block;
-  height: 50px;
-  font-family: 'Suranna', serif;
-  font-size: 34px;
-}
-
 .product-price-btn button {
   float: center;
   display: inline-block;
@@ -6114,3 +6107,7 @@ span {
   outline: none;
 }
 
+img.grande{
+  width: 400px; 
+  height: 400px;
+}
