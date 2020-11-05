@@ -6018,10 +6018,15 @@ Estos son los estilos de los productos
 .container-fluid{
   float: left;
 }
+
+section.columna{
+  text-align: center;
+}
+
 .sidebar-wrapper {
   height: 320px;
   width: 554px;
-  margin: 75px;
+  margin: 100px;
   border-radius: 7px 7px 7px 7px;
   /* VIA CSS MATIC https://goo.gl/cIbnS */
   -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
@@ -6088,7 +6093,7 @@ Estos son los estilos de los productos
 }
 
 .product-price-btn button {
-  float: center;
+  float: none ;
   display: inline-block;
   height: 50px;
   width: 176px;
