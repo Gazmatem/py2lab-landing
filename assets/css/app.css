@@ -6059,7 +6059,7 @@ section.columna{
 
 .product-text h1 {
   margin: 0 0 0 38px;
-  padding-top: 52px;
+  padding-top: 12px;
   font-size: 34px;
   color: #474747;
 }
@@ -6069,13 +6069,13 @@ section.columna{
   font-family: 'Bentham', serif;
 }
 
-.product-text h2 {
+.product-text h3 {
   margin: 0 0 47px 38px;
   font-size: 13px;
   font-family: 'Raleway', sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   text-transform: uppercase;
-  color: #d2d2d2;
+  color: #070707;
   letter-spacing: 0.2em;
 }
 
@@ -6095,7 +6095,7 @@ section.columna{
 .product-price-btn button {
   float: none ;
   display: inline-block;
-  height: 50px;
+  height: 45px;
   width: 176px;
   margin: 0 40px 0 16px;
   box-sizing: border-box;
