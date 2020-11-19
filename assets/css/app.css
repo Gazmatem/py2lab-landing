@@ -6049,7 +6049,7 @@ section.columna{
   height: 320px;
   width: 227px;
   border-radius: 0 7px 10px 7px;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 
 .product-text {
@@ -6061,18 +6061,18 @@ section.columna{
   margin: 0 0 0 38px;
   padding-top: 12px;
   font-size: 34px;
-  color: #474747;
+  color: #000000;
 }
 
 .product-text h1,
 .product-price-btn p {
-  font-family: 'Bentham', serif;
+  font-family: "Segoe UI", serif;
 }
 
 .product-text h3 {
   margin: 0 0 47px 38px;
-  font-size: 13px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-family:"Segoe UI", serif;
   font-weight: 100;
   text-transform: uppercase;
   color: #070707;
