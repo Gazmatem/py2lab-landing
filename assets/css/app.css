@@ -6018,10 +6018,15 @@ Estos son los estilos de los productos
 .container-fluid{
   float: left;
 }
+
+section.columna{
+  text-align: center;
+}
+
 .sidebar-wrapper {
   height: 320px;
   width: 554px;
-  margin: 75px;
+  margin: 100px;
   border-radius: 7px 7px 7px 7px;
   /* VIA CSS MATIC https://goo.gl/cIbnS */
   -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
@@ -6044,7 +6049,7 @@ Estos son los estilos de los productos
   height: 320px;
   width: 227px;
   border-radius: 0 7px 10px 7px;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 
 .product-text {
@@ -6054,23 +6059,22 @@ Estos son los estilos de los productos
 
 .product-text h1 {
   margin: 0 0 0 38px;
-  padding-top: 52px;
+  padding-top: 12px;
   font-size: 34px;
-  color: #474747;
+  color: #000000;
 }
 
 .product-text h1,
 .product-price-btn p {
-  font-family: 'Bentham', serif;
+  font-family: "Segoe UI", serif;
 }
 
-.product-text h2 {
+.product-text h3 {
   margin: 0 0 47px 38px;
-  font-size: 13px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  text-transform: uppercase;
-  color: #d2d2d2;
+  font-size: 12px;
+  font-family:"Segoe UI", serif;
+  font-weight: 100;
+  color: #070707;
   letter-spacing: 0.2em;
 }
 
@@ -6088,9 +6092,9 @@ Estos son los estilos de los productos
 }
 
 .product-price-btn button {
-  float: center;
+  float: none ;
   display: inline-block;
-  height: 50px;
+  height: 45px;
   width: 176px;
   margin: 0 40px 0 16px;
   box-sizing: border-box;
